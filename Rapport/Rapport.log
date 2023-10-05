@@ -1,0 +1,1112 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.4.27)  2 MAY 2023 08:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Rapport.tex
+(Rapport.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
+)) (C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count196
+\float@exts=\toks18
+\float@box=\box51
+\@float@everytoks=\toks19
+\@floatcapt=\box52
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+
+
+LaTeX Warning: Command \underbar  has changed.
+               Check if current package is valid.
+
+
+LaTeX Warning: Command \underline  has changed.
+               Check if current package is valid.
+
+) (C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip50
+\enit@outerparindent=\dimen151
+\enit@toks=\toks20
+\enit@inbox=\box53
+\enit@count@id=\count197
+\enitdp@description=\count198
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common.tex
+\pgfutil@everybye=\toks21
+\pgfutil@tempdima=\dimen152
+\pgfutil@tempdimb=\dimen153
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+latex.def
+\pgfutil@abb=\box54
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
+ode.tex
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
+ty
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
+ty
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex
+\pgfkeys@pathtoks=\toks22
+\pgfkeys@temptoks=\toks23
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysl
+ibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks24
+))
+\pgf@x=\dimen154
+\pgf@y=\dimen155
+\pgf@xa=\dimen156
+\pgf@ya=\dimen157
+\pgf@xb=\dimen158
+\pgf@yb=\dimen159
+\pgf@xc=\dimen160
+\pgf@yc=\dimen161
+\pgf@xd=\dimen162
+\pgf@yd=\dimen163
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count199
+\c@pgf@countb=\count266
+\c@pgf@countc=\count267
+\c@pgf@countd=\count268
+\t@pgf@toka=\toks25
+\t@pgf@tokb=\toks26
+\t@pgf@tokc=\toks27
+\pgf@sys@id@count=\count269
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
+g
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count270
+\pgfsyssoftpath@bigbuffer@items=\count271
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+protocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+LaTeX Info: Redefining \color on input line 711.
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
+ode.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen164
+\pgfmath@count=\count272
+\pgfmath@box=\box55
+\pgfmath@toks=\toks28
+\pgfmath@stack@operand=\toks29
+\pgfmath@stack@operation=\toks30
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.integerarithmetics.code.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
+ode.tex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count273
+))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
+ex)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen165
+\pgf@picmaxx=\dimen166
+\pgf@picminy=\dimen167
+\pgf@picmaxy=\dimen168
+\pgf@pathminx=\dimen169
+\pgf@pathmaxx=\dimen170
+\pgf@pathminy=\dimen171
+\pgf@pathmaxy=\dimen172
+\pgf@xx=\dimen173
+\pgf@xy=\dimen174
+\pgf@yx=\dimen175
+\pgf@yy=\dimen176
+\pgf@zx=\dimen177
+\pgf@zy=\dimen178
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen179
+\pgf@path@lasty=\dimen180
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen181
+\pgf@shorten@start@additional=\dimen182
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count274
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen183
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen184
+\pgf@pt@y=\dimen185
+\pgf@pt@temp=\dimen186
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+quick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+objects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen187
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen188
+\pgf@sys@shading@range@num=\count275
+\pgf@shadingcount=\count276
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box59
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+rdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box60
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen189
+\pgf@nodesepend=\dimen190
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
+y
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen191
+\pgffor@skip=\dimen192
+\pgffor@stack=\toks31
+\pgffor@toks=\toks32
+))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count277
+\pgfplotmarksize=\dimen193
+)
+\tikz@lastx=\dimen194
+\tikz@lasty=\dimen195
+\tikz@lastxsaved=\dimen196
+\tikz@lastysaved=\dimen197
+\tikz@lastmovetox=\dimen198
+\tikz@lastmovetoy=\dimen199
+\tikzleveldistance=\dimen256
+\tikzsiblingdistance=\dimen257
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count278
+\tikznumberofchildren=\count279
+\tikznumberofcurrentchild=\count280
+\tikz@fig@count=\count281
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count282
+\pgfmatrixcurrentcolumn=\count283
+\pgf@matrix@numberofcolumns=\count284
+)
+\tikz@expandcount=\count285
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count286
+\l__pdf_internal_box=\box65
+) (Rapport.aux)
+\openout1 = `Rapport.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mki
+i
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count287
+\scratchdimen=\dimen258
+\scratchbox=\box66
+\nofMPsegments=\count288
+\nofMParguments=\count289
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count290
+\MPscratchDim=\dimen259
+\MPnumerator=\count291
+\makeMPintoPDFobject=\count292
+\everyMPtoPDFconversion=\toks34
+)
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-ba
+se.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\acer\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cf
+g
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<ESTIN-LOGO.png, id=4, 324.21124pt x 112.42pt>
+File: ESTIN-LOGO.png Graphic file (type png)
+<use ESTIN-LOGO.png>
+Package pdftex.def Info: ESTIN-LOGO.png  used on input line 37.
+(pdftex.def)             Requested size: 226.48395pt x 78.53392pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 59.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 59.
+
+Overfull \hbox (12.95999pt too wide) in paragraph at lines 58--82
+[][] [] [] []
+ []
+
+
+Overfull \hbox (12.95999pt too wide) in paragraph at lines 58--82
+[] [] [] [] 
+ []
+
+[1
+
+{C:/Users/acer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./ESTIN-LOGO.
+png>]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 117.
+
+
+Overfull \hbox (7.17455pt too wide) in paragraph at lines 128--129
+[]\OT1/cmr/m/n/17.28 Nous souhaitons ^^Segalement adresser nos re-mer-ciements 
+aux mem-
+ []
+
+[1] (Rapport.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+)
+\tf@toc=\write4
+\openout4 = `Rapport.toc'.
+
+ [2] (Rapport.lof)
+\tf@lof=\write5
+\openout5 = `Rapport.lof'.
+
+ [3] (Rapport.lot)
+\tf@lot=\write6
+\openout6 = `Rapport.lot'.
+
+ [4]
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 149.
+
+
+Overfull \hbox (16.79121pt too wide) in paragraph at lines 151--152
+\OT1/cmr/m/n/14.4 de leur en-vi-ron-nement, ainsi qu'une ges-tion ef-fi-cace de
+s ressources disponibles.
+ []
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 154.
+
+[5]
+Overfull \hbox (29.83109pt too wide) in paragraph at lines 171--172
+[]\OT1/cmr/m/n/14.4 Le deuxi^^Reme chapitre, in-ti-tul^^Se "Con-cep-tion", se c
+on-cen-tre sur la mod^^Selisation
+ []
+
+
+Overfull \hbox (5.70473pt too wide) in paragraph at lines 177--178
+[]\OT1/cmr/m/n/14.4 Enfin, le rap-port sera cl^otur^^Se par une con-clu-sion g^
+^Sen^^Serale qui synth^^Setisera
+ []
+
+
+Overfull \hbox (34.2544pt too wide) in paragraph at lines 180--182
+[]\OT1/cmr/m/n/14.4 Nous avons vu l'introduction g^^Sen^^Serale et nous avons p
+r^^Sesent^^Se la probl^^Sematique
+ []
+
+[6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 242--247
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--285
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 286--294
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 295--303
+
+ []
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 304--313
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--319
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 341--348
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 349--355
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--366
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--376
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--381
+
+ []
+
+[9]
+Overfull \hbox (7.72469pt too wide) in paragraph at lines 393--416
+\OT1/cmr/m/n/12 site web d'une jardin situ^^See ^^Ra " Route des Dunes, Cher-ag
+a AL-GER " : https://www.garden-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 393--416
+
+ []
+
+[10]
+<Capture1.jpg, id=46, 1141.26375pt x 543.83176pt>
+File: Capture1.jpg Graphic file (type jpg)
+<use Capture1.jpg>
+Package pdftex.def Info: Capture1.jpg  used on input line 420.
+(pdftex.def)             Requested size: 452.9679pt x 215.84431pt.
+<Capture2.jpg, id=47, 891.33pt x 349.90726pt>
+File: Capture2.jpg Graphic file (type jpg)
+<use Capture2.jpg>
+Package pdftex.def Info: Capture2.jpg  used on input line 425.
+(pdftex.def)             Requested size: 452.9679pt x 177.82031pt.
+ [11 <./Capture1.jpg> <./Capture2.jpg>] [12]
+Overfull \hbox (3.02321pt too wide) in paragraph at lines 522--524
+\OT1/cmr/m/n/12 Pour mieux com-pren-dre le r^ole de chaque ac-teur on utilise l
+e di-a-gramme de cas d'utilisation
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 533--534
+
+ []
+
+[13]
+<Use Case Diagram.jpg, id=58, 455.301pt x 397.485pt>
+File: Use Case Diagram.jpg Graphic file (type jpg)
+<use Use Case Diagram.jpg>
+Package pdftex.def Info: Use Case Diagram.jpg  used on input line 549.
+(pdftex.def)             Requested size: 452.9679pt x 395.46432pt.
+ [14 <./Use Case Diagram.jpg>] [15]
+<Authentification.jpg, id=65, 368.577pt x 404.712pt>
+File: Authentification.jpg Graphic file (type jpg)
+<use Authentification.jpg>
+Package pdftex.def Info: Authentification.jpg  used on input line 574.
+(pdftex.def)             Requested size: 452.9679pt x 497.3914pt.
+ [16 <./Authentification.jpg>]
+<Ajouter Un produit.jpg, id=69, 524.55975pt x 446.8695pt>
+File: Ajouter Un produit.jpg Graphic file (type jpg)
+<use Ajouter Un produit.jpg>
+Package pdftex.def Info: Ajouter Un produit.jpg  used on input line 581.
+(pdftex.def)             Requested size: 452.9679pt x 385.89584pt.
+ [17 <./Ajouter Un produit.jpg>]
+<Acheter Un produit.jpg, id=74, 391.4625pt x 396.2805pt>
+File: Acheter Un produit.jpg Graphic file (type jpg)
+<use Acheter Un produit.jpg>
+Package pdftex.def Info: Acheter Un produit.jpg  used on input line 588.
+(pdftex.def)             Requested size: 452.9679pt x 458.56705pt.
+ [18 <./Acheter Un produit.jpg>]
+LaTeX Font Info:    Calculating math sizes for size <15> on input line 600.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <10.49995> not available
+(Font)              size <10.95> substituted on input line 600.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 600.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <15> not available
+(Font)              size <14.4> substituted on input line 600.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <10.49995> not available
+(Font)              size <10.95> substituted on input line 600.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <7.5> not available
+(Font)              size <7> substituted on input line 600.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 600.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <10.49995> not available
+(Font)              size <10.95> substituted on input line 600.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <7.5> not available
+(Font)              size <7> substituted on input line 600.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <15> on input line 600.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.49995> on input line 600.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7.5> on input line 600.
+[19]
+<Class diagramm.jpg, id=83, 545.6385pt x 405.9165pt>
+File: Class diagramm.jpg Graphic file (type jpg)
+<use Class diagramm.jpg>
+Package pdftex.def Info: Class diagramm.jpg  used on input line 607.
+(pdftex.def)             Requested size: 452.9679pt x 336.97874pt.
+ [20 <./Class diagramm.jpg>]
+Overfull \hbox (8.92947pt too wide) in paragraph at lines 623--629
+  \OT1/cmr/m/n/14.4 Le site PlantEz est un site web qui est r^^Sealis^^Se par u
+ne ^^Sequipe d'^^Setudiants
+ []
+
+
+Overfull \hbox (49.25745pt too wide) in paragraph at lines 623--629
+\OT1/cmr/m/n/14.4 de l'^^Secole sup^^Serieure de sci-ences et tech-nolo-gies d'
+informatique et num^^Serique{Bejaia
+ []
+
+
+Overfull \hbox (13.34453pt too wide) in paragraph at lines 623--629
+\OT1/cmr/m/n/14.4 dans le cadre d'un pro-jet pluridis-ci-plinaire de fin de cy-
+cle pr^^Separatoire,destin^^Se
+ []
+
+
+Overfull \hbox (19.95465pt too wide) in paragraph at lines 642--649
+[]$\OMS/cmsy/m/n/14.4 ^^O$ \OT1/cmr/m/n/14.4 Figma : C'est un outil tr^^Res pop
+-u-laire pour la con-cep-tion d'interfaces
+ []
+
+[21]
+<logos.png, id=90, 227.6505pt x 109.6095pt>
+File: logos.png Graphic file (type png)
+<use logos.png>
+Package pdftex.def Info: logos.png  used on input line 657.
+(pdftex.def)             Requested size: 284.52756pt x 137.00816pt.
+
+
+LaTeX Font Warning: Font shape `TS1/cmr/m/n' in size <15> not available
+(Font)              size <14.4> substituted on input line 681.
+
+
+Overfull \hbox (9.5269pt too wide) in paragraph at lines 680--683
+[]\OT1/cmr/m/n/14.4 Il a le pou-voir de se repo-si-tion-ner. Cela nous aide `a 
+d\TS1/cmr/m/n/14.4 ´\OT1/cmr/m/n/14.4 eterminer
+ []
+
+[22 <./logos.png>]
+<html-css-js.png, id=96, 1113.15875pt x 433.62pt>
+File: html-css-js.png Graphic file (type png)
+<use html-css-js.png>
+Package pdftex.def Info: html-css-js.png  used on input line 697.
+(pdftex.def)             Requested size: 284.52756pt x 110.83298pt.
+ [23 <./html-css-js.png>]
+<MERN-logo.png, id=101, 478.1865pt x 224.63925pt>
+File: MERN-logo.png Graphic file (type png)
+<use MERN-logo.png>
+Package pdftex.def Info: MERN-logo.png  used on input line 732.
+(pdftex.def)             Requested size: 284.52756pt x 133.67056pt.
+ [24 <./MERN-logo.png>]
+<git-disc.png, id=107, 187.902pt x 119.84775pt>
+File: git-disc.png Graphic file (type png)
+<use git-disc.png>
+Package pdftex.def Info: git-disc.png  used on input line 755.
+(pdftex.def)             Requested size: 142.26378pt x 90.74324pt.
+<figma-logo-0.png, id=108, 1986.69745pt x 1986.69745pt>
+File: figma-logo-0.png Graphic file (type png)
+<use figma-logo-0.png>
+Package pdftex.def Info: figma-logo-0.png  used on input line 765.
+(pdftex.def)             Requested size: 142.26378pt x 142.23573pt.
+<LaTeX_logo.svg.png, id=109, 1204.5pt x 501.875pt>
+File: LaTeX_logo.svg.png Graphic file (type png)
+<use LaTeX_logo.svg.png>
+Package pdftex.def Info: LaTeX_logo.svg.png  used on input line 773.
+(pdftex.def)             Requested size: 142.26378pt x 59.2728pt.
+ [25 <./git-disc.png> <./figma-logo-0.png> <./LaTeX_logo.svg.png>]
+<nom.png, id=116, 376.40625pt x 95.6072pt>
+File: nom.png Graphic file (type png)
+<use nom.png>
+Package pdftex.def Info: nom.png  used on input line 785.
+(pdftex.def)             Requested size: 341.43306pt x 86.72986pt.
+<LOGO last version.png, id=117, 168.02776pt x 183.084pt>
+File: LOGO last version.png Graphic file (type png)
+<use LOGO last version.png>
+Package pdftex.def Info: LOGO last version.png  used on input line 790.
+(pdftex.def)             Requested size: 142.26378pt x 155.02148pt.
+<presentation.png, id=118, 266.1945pt x 134.904pt>
+File: presentation.png Graphic file (type png)
+<use presentation.png>
+Package pdftex.def Info: presentation.png  used on input line 794.
+(pdftex.def)             Requested size: 284.52756pt x 144.19765pt.
+<2.png, id=119, 376.40625pt x 376.40625pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 800.
+(pdftex.def)             Requested size: 142.26378pt x 142.26622pt.
+<3.png, id=120, 376.40625pt x 376.40625pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 807.
+(pdftex.def)             Requested size: 142.26378pt x 142.26622pt.
+ [26 <./nom.png> <./LOGO last version.png> <./presentation.png> <./2.png> <./3.
+png>]
+<mocup3.png, id=129, 894.9435pt x 599.841pt>
+File: mocup3.png Graphic file (type png)
+<use mocup3.png>
+Package pdftex.def Info: mocup3.png  used on input line 818.
+(pdftex.def)             Requested size: 312.9803pt x 209.77359pt.
+<mocup2.png, id=130, 3613.5pt x 2409.0pt>
+File: mocup2.png Graphic file (type png)
+<use mocup2.png>
+Package pdftex.def Info: mocup2.png  used on input line 821.
+(pdftex.def)             Requested size: 312.9803pt x 208.64029pt.
+<mocup1.png, id=131, 3613.5pt x 2409.0pt>
+File: mocup1.png Graphic file (type png)
+<use mocup1.png>
+Package pdftex.def Info: mocup1.png  used on input line 824.
+(pdftex.def)             Requested size: 312.9803pt x 208.64029pt.
+ [27 <./mocup3.png> <./mocup2.png (PNG copy)> <./mocup1.png>]
+<colors.png, id=137, 245.11575pt x 133.6995pt>
+File: colors.png Graphic file (type png)
+<use colors.png>
+Package pdftex.def Info: colors.png  used on input line 831.
+(pdftex.def)             Requested size: 170.71652pt x 93.11978pt.
+<fonts.png, id=138, 376.40625pt x 376.40625pt>
+File: fonts.png Graphic file (type png)
+<use fonts.png>
+Package pdftex.def Info: fonts.png  used on input line 834.
+(pdftex.def)             Requested size: 284.52756pt x 284.54968pt.
+
+Overfull \hbox (67.1049pt too wide) in paragraph at lines 834--835
+[][] 
+ []
+
+
+Overfull \hbox (2.63553pt too wide) in paragraph at lines 830--836
+[]$[]$ $[]$ 
+ []
+
+<home.jpg, id=139, 1112.35574pt x 539.616pt>
+File: home.jpg Graphic file (type jpg)
+<use home.jpg>
+Package pdftex.def Info: home.jpg  used on input line 849.
+(pdftex.def)             Requested size: 426.79134pt x 207.04057pt.
+[28 <./colors.png> <./fonts.png> <./home.jpg>]
+<offre.jpg, id=145, 1112.958pt x 541.42274pt>
+File: offre.jpg Graphic file (type jpg)
+<use offre.jpg>
+Package pdftex.def Info: offre.jpg  used on input line 857.
+(pdftex.def)             Requested size: 426.79134pt x 207.61812pt.
+
+Overfull \hbox (2.72818pt too wide) in paragraph at lines 861--863
+[]\OT1/cmr/m/n/14.4 En outre, la page d'accueil com-prend une zone d^^Sedi^^See
+ aux quelques
+ []
+
+<categories.jpg, id=146, 1112.35574pt x 540.8205pt>
+File: categories.jpg Graphic file (type jpg)
+<use categories.jpg>
+Package pdftex.def Info: categories.jpg  used on input line 866.
+(pdftex.def)             Requested size: 426.79134pt x 207.5027pt.
+[29 <./offre.jpg> <./categories.jpg>]
+<plus-cat.jpg, id=150, 178.86826pt x 48.18pt>
+File: plus-cat.jpg Graphic file (type jpg)
+<use plus-cat.jpg>
+Package pdftex.def Info: plus-cat.jpg  used on input line 880.
+(pdftex.def)             Requested size: 170.71652pt x 45.98611pt.
+<plus-cat-hover.jpg, id=151, 177.0615pt x 55.407pt>
+File: plus-cat-hover.jpg Graphic file (type jpg)
+<use plus-cat-hover.jpg>
+Package pdftex.def Info: plus-cat-hover.jpg  used on input line 883.
+(pdftex.def)             Requested size: 170.71652pt x 53.42513pt.
+
+Overfull \hbox (40.23509pt too wide) in paragraph at lines 879--885
+[]$[]$ $[]$ 
+ []
+
+<prod.jpg, id=152, 1113.56026pt x 539.616pt>
+File: prod.jpg Graphic file (type jpg)
+<use prod.jpg>
+Package pdftex.def Info: prod.jpg  used on input line 891.
+(pdftex.def)             Requested size: 426.79134pt x 206.81825pt.
+<products.jpg, id=153, 842.54774pt x 463.7325pt>
+File: products.jpg Graphic file (type jpg)
+<use products.jpg>
+Package pdftex.def Info: products.jpg  used on input line 901.
+(pdftex.def)             Requested size: 341.43306pt x 187.92384pt.
+[30 <./plus-cat.jpg> <./plus-cat-hover.jpg> <./prod.jpg> <./products.jpg>]
+<nomduproduit.jpg, id=158, 1114.1625pt x 539.616pt>
+File: nomduproduit.jpg Graphic file (type jpg)
+<use nomduproduit.jpg>
+Package pdftex.def Info: nomduproduit.jpg  used on input line 909.
+(pdftex.def)             Requested size: 341.43306pt x 165.36073pt.
+<supp.jpg, id=159, 1113.56026pt x 534.798pt>
+File: supp.jpg Graphic file (type jpg)
+<use supp.jpg>
+Package pdftex.def Info: supp.jpg  used on input line 917.
+(pdftex.def)             Requested size: 341.43306pt x 163.97406pt.
+
+[31 <./nomduproduit.jpg> <./supp.jpg>]
+<login.jpg, id=163, 972.63374pt x 504.6855pt>
+File: login.jpg Graphic file (type jpg)
+<use login.jpg>
+Package pdftex.def Info: login.jpg  used on input line 932.
+(pdftex.def)             Requested size: 452.9679pt x 235.03827pt.
+<signup.jpg, id=164, 1098.504pt x 521.5485pt>
+File: signup.jpg Graphic file (type jpg)
+<use signup.jpg>
+Package pdftex.def Info: signup.jpg  used on input line 937.
+(pdftex.def)             Requested size: 452.9679pt x 215.05386pt.
+ [32 <./login.jpg> <./signup.jpg>]
+Overfull \hbox (2.9998pt too wide) in paragraph at lines 940--941
+[]\OT1/cmr/m/n/14.4 Apr^^Res l'athentification vous pou-vez con-sul-ter les pag
+es prec^^Sedentes
+ []
+
+<panier.jpg, id=168, 748.59676pt x 530.58224pt>
+File: panier.jpg Graphic file (type jpg)
+<use panier.jpg>
+Package pdftex.def Info: panier.jpg  used on input line 945.
+(pdftex.def)             Requested size: 341.43306pt x 241.99011pt.
+<fav.jpg, id=169, 760.0395pt x 526.96875pt>
+File: fav.jpg Graphic file (type jpg)
+<use fav.jpg>
+Package pdftex.def Info: fav.jpg  used on input line 951.
+(pdftex.def)             Requested size: 341.43306pt x 236.73169pt.
+[33 <./panier.jpg> <./fav.jpg>]
+<howWeWork.jpg, id=173, 1113.56026pt x 540.8205pt>
+File: howWeWork.jpg Graphic file (type jpg)
+<use howWeWork.jpg>
+Package pdftex.def Info: howWeWork.jpg  used on input line 960.
+(pdftex.def)             Requested size: 452.9679pt x 219.99661pt.
+<gallery.jpg, id=174, 1112.958pt x 543.2295pt>
+File: gallery.jpg Graphic file (type jpg)
+<use gallery.jpg>
+Package pdftex.def Info: gallery.jpg  used on input line 966.
+(pdftex.def)             Requested size: 452.9679pt x 221.09259pt.
+ [34 <./howWeWork.jpg> <./gallery.jpg>]
+<contact.jpg, id=178, 1111.7535pt x 496.85625pt>
+File: contact.jpg Graphic file (type jpg)
+<use contact.jpg>
+Package pdftex.def Info: contact.jpg  used on input line 974.
+(pdftex.def)             Requested size: 452.9679pt x 202.43112pt.
+<footer.jpg, id=179, 1113.56026pt x 310.15875pt>
+File: footer.jpg Graphic file (type jpg)
+<use footer.jpg>
+Package pdftex.def Info: footer.jpg  used on input line 983.
+(pdftex.def)             Requested size: 452.9679pt x 126.16731pt.
+ [35 <./contact.jpg> <./footer.jpg>]
+<adminlogin.jpg, id=183, 606.46574pt x 298.11375pt>
+File: adminlogin.jpg Graphic file (type jpg)
+<use adminlogin.jpg>
+Package pdftex.def Info: adminlogin.jpg  used on input line 996.
+(pdftex.def)             Requested size: 452.9679pt x 222.6659pt.
+<DASH1.jpg, id=184, 1099.7085pt x 539.616pt>
+File: DASH1.jpg Graphic file (type jpg)
+<use DASH1.jpg>
+Package pdftex.def Info: DASH1.jpg  used on input line 1004.
+(pdftex.def)             Requested size: 452.9679pt x 222.26498pt.
+ [36 <./adminlogin.jpg> <./DASH1.jpg>]
+<dash2.jpg, id=189, 926.86275pt x 401.70074pt>
+File: dash2.jpg Graphic file (type jpg)
+<use dash2.jpg>
+Package pdftex.def Info: dash2.jpg  used on input line 1010.
+(pdftex.def)             Requested size: 452.9679pt x 196.31407pt.
+<dash3.jpg, id=190, 929.874pt x 495.0495pt>
+File: dash3.jpg Graphic file (type jpg)
+<use dash3.jpg>
+Package pdftex.def Info: dash3.jpg  used on input line 1015.
+(pdftex.def)             Requested size: 452.9679pt x 241.15625pt.
+ [37 <./dash2.jpg> <./dash3.jpg>]
+<dash4.jpg, id=194, 922.04475pt x 361.95226pt>
+File: dash4.jpg Graphic file (type jpg)
+<use dash4.jpg>
+Package pdftex.def Info: dash4.jpg  used on input line 1021.
+(pdftex.def)             Requested size: 452.9679pt x 177.81102pt.
+<commandes.jpg, id=195, 1099.10625pt x 536.60475pt>
+File: commandes.jpg Graphic file (type jpg)
+<use commandes.jpg>
+Package pdftex.def Info: commandes.jpg  used on input line 1029.
+(pdftex.def)             Requested size: 452.9679pt x 221.14748pt.
+ [38 <./dash4.jpg> <./commandes.jpg>]
+<produits.jpg, id=199, 1102.71976pt x 541.42274pt>
+File: produits.jpg Graphic file (type jpg)
+<use produits.jpg>
+Package pdftex.def Info: produits.jpg  used on input line 1038.
+(pdftex.def)             Requested size: 452.9679pt x 222.40608pt.
+<cat.jpg, id=200, 1101.51524pt x 539.01375pt>
+File: cat.jpg Graphic file (type jpg)
+<use cat.jpg>
+Package pdftex.def Info: cat.jpg  used on input line 1044.
+(pdftex.def)             Requested size: 452.9679pt x 221.65503pt.
+ [39 <./produits.jpg> <./cat.jpg>]
+<ajtoffre.jpg, id=204, 940.11224pt x 443.256pt>
+File: ajtoffre.jpg Graphic file (type jpg)
+<use ajtoffre.jpg>
+Package pdftex.def Info: ajtoffre.jpg  used on input line 1053.
+(pdftex.def)             Requested size: 452.9679pt x 213.57208pt.
+<Ajtprod.jpg, id=205, 938.3055pt x 451.08525pt>
+File: Ajtprod.jpg Graphic file (type jpg)
+<use Ajtprod.jpg>
+Package pdftex.def Info: Ajtprod.jpg  used on input line 1059.
+(pdftex.def)             Requested size: 452.9679pt x 217.76428pt.
+ [40 <./ajtoffre.jpg> <./Ajtprod.jpg>]
+<Ajtcat.jpg, id=209, 937.101pt x 488.42474pt>
+File: Ajtcat.jpg Graphic file (type jpg)
+<use Ajtcat.jpg>
+Package pdftex.def Info: Ajtcat.jpg  used on input line 1066.
+(pdftex.def)             Requested size: 452.9679pt x 236.08826pt.
+<profil.jpg, id=210, 938.3055pt x 540.21825pt>
+File: profil.jpg Graphic file (type jpg)
+<use profil.jpg>
+Package pdftex.def Info: profil.jpg  used on input line 1075.
+(pdftex.def)             Requested size: 341.43306pt x 196.5804pt.
+
+Overfull \hbox (5.39142pt too wide) in paragraph at lines 1070--1078
+[]\OT1/cmr/m/n/14.4 Profile : Cette page con-tient les in-for-ma-tions per-son-
+nels de l'admin
+ []
+
+[41 <./Ajtcat.jpg> <./profil.jpg>]
+<param1.jpg, id=214, 930.47626pt x 476.982pt>
+File: param1.jpg Graphic file (type jpg)
+<use param1.jpg>
+Package pdftex.def Info: param1.jpg  used on input line 1086.
+(pdftex.def)             Requested size: 452.9679pt x 232.20209pt.
+<param2.jpg, id=215, 925.056pt x 300.52275pt>
+File: param2.jpg Graphic file (type jpg)
+<use param2.jpg>
+Package pdftex.def Info: param2.jpg  used on input line 1092.
+(pdftex.def)             Requested size: 452.9679pt x 147.15654pt.
+ [42 <./param1.jpg> <./param2.jpg>] [43]
+[44] (Rapport.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 620 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 13575 strings out of 476331
+ 280121 string characters out of 5788237
+ 1861660 words of memory out of 5000000
+ 33786 multiletter control sequences out of 15000+600000
+ 519335 words of font info for 55 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 84i,8n,89p,915b,522s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\acer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/e
+c/dpi600\tcrm1440.pk><C:/Users/acer/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/acer/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/acer/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Rapport.pdf (45 pages, 20132592 bytes).
+PDF statistics:
+ 251 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 288 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Introduction générale :}{5}{}%
+\contentsline {section}{\numberline {2}CHAPITRE 01 : Spécification des besoins}{7}{}%
+\contentsline {subsection}{\numberline {2.1}Introduction}{7}{}%
+\contentsline {subsection}{\numberline {2.2}Présentation du client}{7}{}%
+\contentsline {subsection}{\numberline {2.3}Pourquoi nous a-t-il choisis ?}{8}{}%
+\contentsline {subsection}{\numberline {2.4}Problématiques/solutions}{8}{}%
+\contentsline {subsubsection}{\numberline {2.4.1}Problématiques}{8}{}%
+\contentsline {subsubsection}{\numberline {2.4.2}Solutions}{9}{}%
+\contentsline {subsection}{\numberline {2.5}Étude de l'existence}{10}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}Quelques critiques }{12}{}%
+\contentsline {subsection}{\numberline {2.6}Analyse des besoins }{12}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Besoins fonctionnelles :}{12}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}Besoins non fonctionnelles :}{12}{}%
+\contentsline {subsubsection}{\numberline {2.6.3}Diagramme de cas d’utilisation :}{13}{}%
+\contentsline {subsection}{\numberline {2.7}Conclusion}{14}{}%
+\contentsline {section}{\numberline {3}CHAPITRE 02 : Conception}{15}{}%
+\contentsline {subsection}{\numberline {3.1}Introduction}{15}{}%
+\contentsline {subsection}{\numberline {3.2}Diagrammes de séquence}{15}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Authentification}{16}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Ajouter Un produit }{17}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}Acheter Un produit }{18}{}%
+\contentsline {subsection}{\numberline {3.3}Diagramme de classe}{19}{}%
+\contentsline {subsection}{\numberline {3.4}Conclusion}{20}{}%
+\contentsline {section}{\numberline {4}CHAPITRE 03 : Réalisation}{21}{}%
+\contentsline {subsection}{\numberline {4.1}Introduction}{21}{}%
+\contentsline {subsection}{\numberline {4.2}Outils de développement}{21}{}%
+\contentsline {subsection}{\numberline {4.3}Présentation de l’application}{26}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}Présentation du Nom de la plateforme :}{26}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}Présentation du logo :}{26}{}%
+\contentsline {subsubsection}{\numberline {4.3.3}Présentation des interfaces}{28}{}%
+\contentsline {section}{\numberline {5}Conclusion générale}{43}{}%
+\contentsline {section}{\numberline {6}Bibliographie/Webographie}{43}{}%
+\contentsline {section}{\numberline {7}Résumé/traduction}{44}{}%
